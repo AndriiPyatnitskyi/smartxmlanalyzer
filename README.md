@@ -1,4 +1,4 @@
-# smartxmlanalyzer
+# smart xml analyzer
 Hello.
 This is my implementation of smart aml analyzer.
 
